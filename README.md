@@ -13,4 +13,6 @@ Description:
 <p>A crawler to take wallpaper from http://big5.wallcoo.com/ 
 <li>Wenku8_Scrape_Novel.ipynb</li>
 <p>A crawler to take novels from www.wenku8.com
+<li>file m3u8</li>
+<p>merge ts file from m3u8 list.
 </ol>
